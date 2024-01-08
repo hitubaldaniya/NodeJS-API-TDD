@@ -1,6 +1,9 @@
 # NodeJS-API-TDD
 Test driven API development using nodejs, express, jest and supertest with Joi to validate fields.
 
+## Install All Dependency
+> npm install
+
 ## Run Test
 > npm test
 
